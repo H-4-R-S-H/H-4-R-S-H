@@ -23,7 +23,7 @@
   <img width="12" />
   <img height="60" alt="python logo" src="https://github.com/user-attachments/assets/48727c31-0b44-49bb-b2e9-04530c43f3eb" />  
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img height="65" alt="photoshop logo" src="https://github.com/user-attachments/assets/e1e1e447-1c82-4fb0-92ca-db6f18478bff" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
