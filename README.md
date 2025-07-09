@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'M Harsh</p>
+<h3 align="left">I'M Harsh</h3>
 
 ###
 
