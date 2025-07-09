@@ -21,7 +21,7 @@
   <img width="12" />
   <img height="60" alt="power bi logo" src="https://github.com/user-attachments/assets/3a156f12-627f-4b04-84cf-8e45b8b5f1d2" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img height="60" alt="python logo" src="https://github.com/user-attachments/assets/48727c31-0b44-49bb-b2e9-04530c43f3eb" />  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
   <img width="12" />
