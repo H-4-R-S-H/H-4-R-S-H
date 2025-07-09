@@ -16,20 +16,18 @@
 
 <div align="left">
   <img height="60" alt="mysql logo" src="https://github.com/user-attachments/assets/b5f0b053-b8e3-407e-8133-f40e91f48599" />
+  <img width="15" />
+  <img height="55" alt="excel logo" src="https://github.com/user-attachments/assets/96861169-54e5-4e4e-a26c-71196fef066d" />
+  <img width="15" />
+  <img height="55" alt="power bi logo" src="https://github.com/user-attachments/assets/3a156f12-627f-4b04-84cf-8e45b8b5f1d2" />
+  <img width="15" />
+  <img height="55" alt="python logo" src="https://github.com/user-attachments/assets/48727c31-0b44-49bb-b2e9-04530c43f3eb" />  
   <img width="12" />
-  <img height="60" alt="excel logo" src="https://github.com/user-attachments/assets/96861169-54e5-4e4e-a26c-71196fef066d" />
-  <img width="12" />
-  <img height="60" alt="power bi logo" src="https://github.com/user-attachments/assets/3a156f12-627f-4b04-84cf-8e45b8b5f1d2" />
-  <img width="12" />
-  <img height="60" alt="python logo" src="https://github.com/user-attachments/assets/48727c31-0b44-49bb-b2e9-04530c43f3eb" />  
-  <img width="12" />
-  <img height="65" alt="photoshop logo" src="https://github.com/user-attachments/assets/e1e1e447-1c82-4fb0-92ca-db6f18478bff" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img height="70" alt="photoshop logo" src="https://github.com/user-attachments/assets/e1e1e447-1c82-4fb0-92ca-db6f18478bff" />
+  <img width="5" />
+  <img height="70" alt="illustrator logo" src="https://github.com/user-attachments/assets/e28fdaf5-2ae1-4618-9777-118f43f875d7" />
+  <img width="0" />
+  <img height="75" alt="html logo" src="https://github.com/user-attachments/assets/c65e6975-ce09-4337-9c3b-8f808a665987" />
 </div>
 
 ###
