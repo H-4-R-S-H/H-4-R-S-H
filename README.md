@@ -15,8 +15,7 @@
 ###
 
 <div align="left">
-  <img src="![image](https://github.com/user-attachments/assets/e7cb0b7b-5e88-4b46-971d-a6d0cca73d5a)" height="40" alt="mysql logo" />
-  <img width="12" />
+  <img width="12" height="40" alt="mysql logo" src="https://github.com/user-attachments/assets/b5f0b053-b8e3-407e-8133-f40e91f48599" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
